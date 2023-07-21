@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author yk
+ *
+ */
+module AbstractClass {
+}
