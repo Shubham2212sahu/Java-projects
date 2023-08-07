@@ -4,7 +4,6 @@ public class Employee {
 	
 	public String emname;
 	
-	
 	public int emid;
 	
 	public double salary;
